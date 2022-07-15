@@ -1,0 +1,2 @@
+# Print name
+print("Asahi")
